@@ -1,0 +1,9 @@
+[Core]
+Name = Dad
+Module = dad
+
+[Documentation]
+Description = Tell a Dad joke from http://icanhazdadjoke.com
+
+[Python]
+Version = 3
